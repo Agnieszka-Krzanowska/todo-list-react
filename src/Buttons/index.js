@@ -6,7 +6,7 @@ const Buttons = (props) => {
     }
 
     return (
-        <div>
+        <div className="buttons">
             <button className="buttons__button">
                 {props.hideDoneTask ? "Pokaż" : "Ukryj"} ukończone
             </button>
