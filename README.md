@@ -5,6 +5,7 @@ It's simple to-do list which has been created using the "YouCode" course.
 
 ### Here is a GIF showing my to-do list without interactions.
 
+![Animation2](https://github.com/Agnieszka-Krzanowska/todo-list-react/assets/116174956/36d2d049-54ae-43f2-b126-37fcbb1893e4)
 
 
 ### Used Technologies
